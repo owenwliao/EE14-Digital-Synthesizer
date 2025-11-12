@@ -1,4 +1,4 @@
-Mason Doshi, Owen Liao, Susan Nguyen
+Mason Doshi, Owen Liao, Truc Nguyen
 
 Tufts EE 14 - Embedded Systems
 
